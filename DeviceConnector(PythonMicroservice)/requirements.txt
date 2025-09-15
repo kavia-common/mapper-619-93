@@ -1,0 +1,4 @@
+Flask>=2.2,<3
+requests>=2.28,<3
+pytest>=7,<8
+# device lib (netmiko OR ncclient) will be appended during build step based on DEVICE_LIB
